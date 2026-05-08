@@ -5,7 +5,7 @@ int main()
 {
 	setlocale(LC_ALL,"turkish");
 	int i,j;
-	printf("1-10 Arası Çarpım Taplosu\n\n");
+	printf("1-10 ArasÃ½ Ã‡arpÃ½m Taplosu\n\n");
 	for(i=1;i<=10;i++)
 	{
 	 for(j=1;j<=10;j++)
